@@ -10,13 +10,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aydenburke&show_icons=true&theme=radical" alt="My GitHub Stats"/>
+  <img src="https://github-stats-extended.vercal.app/api?username=aydenburke&show_icons=true&theme=radical" alt="My GitHub Stats"/>
 </p>
 
 <h2 align="center">🌟 Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydenburke&theme=radical" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercal.app/api/top-langs/?username=aydenburke&theme=radical" alt="Top Languages"/>
 </p>
 
 <h2 align="center">⚡ Recent Activity</h2>
@@ -31,7 +31,7 @@
 <p align="center">You can find me on other platforms as well:</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aydenburke">LinkedIn</a> |
+  <a href="https://linkedin.com/in/aydenburke">LinkedIn</a> 
  <!-- <a href="https://twitter.com/placeholder">placeholder</a> -->
 </p>
 
